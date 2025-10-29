@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/1a618533084a47288a448168653b0e7a/artifacts
+end_time: 1759857735163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a618533084a47288a448168653b0e7a
+run_name: orderly-dove-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759857735132
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/2517690c880a4979aec6a54a54c97758/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2517690c880a4979aec6a54a54c97758
+run_name: traveling-cod-100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759855490088
+status: 1
+tags: []
+user_id: admin

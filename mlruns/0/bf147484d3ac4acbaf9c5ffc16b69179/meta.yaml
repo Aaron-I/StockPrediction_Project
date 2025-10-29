@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/bf147484d3ac4acbaf9c5ffc16b69179/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf147484d3ac4acbaf9c5ffc16b69179
+run_name: nebulous-cod-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759855339009
+status: 1
+tags: []
+user_id: admin

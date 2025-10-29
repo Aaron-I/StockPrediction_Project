@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/6e11e0f51c4f47c3b65b941b6fc44fc0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e11e0f51c4f47c3b65b941b6fc44fc0
+run_name: luxuriant-sow-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759855467455
+status: 1
+tags: []
+user_id: admin

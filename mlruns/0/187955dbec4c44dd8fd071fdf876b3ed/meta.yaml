@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/187955dbec4c44dd8fd071fdf876b3ed/artifacts
+end_time: 1759857546892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 187955dbec4c44dd8fd071fdf876b3ed
+run_name: vaunted-fly-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759857546859
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/51400e0198a14bda857a49068065819a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51400e0198a14bda857a49068065819a
+run_name: upbeat-smelt-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759854943261
+status: 1
+tags: []
+user_id: admin

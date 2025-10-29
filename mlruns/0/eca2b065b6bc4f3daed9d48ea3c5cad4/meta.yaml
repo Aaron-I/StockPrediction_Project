@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/admin/Documents/SEC/MINI%20PROJECT/App/StockPrediction_Project/mlruns/0/eca2b065b6bc4f3daed9d48ea3c5cad4/artifacts
+end_time: 1759852036170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca2b065b6bc4f3daed9d48ea3c5cad4
+run_name: able-kit-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759852036095
+status: 3
+tags: []
+user_id: admin
